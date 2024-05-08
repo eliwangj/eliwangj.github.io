@@ -1,11 +1,12 @@
 title: Eli Wang # your name (or website title) here
-logo: "/images/photo.JPG?raw=true" # your photo (or logo) here
+logo: "my-photo-2.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Scientist | ex-Tesla | ex-Meta/USC
   <br><br>
-  Second description 
+  3 years of experience in end-to-end data analysis, workflow automation, and machine learning (speacialized in NLP).
+  Previously on Tesla's Analytics team and supported decision-making for multiple cross-functional teams & leaders across North America.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/eliwangjq">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
