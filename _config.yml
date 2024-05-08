@@ -1,5 +1,5 @@
-title: Eli Wang # your name (or website title) here
-logo: "my-photo-2.jpeg?raw=true" # your photo (or logo) here
+title: Eli Wang
+logo: "/images/my-photo-2.jpeg"
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Scientist | ex-Tesla | ex-Meta/USC
   <br><br>
