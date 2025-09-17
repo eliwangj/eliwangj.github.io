@@ -1,1 +1,2 @@
 .hugo_build.lock        # Hugo build lock file
+public/                 # Hugo build artifacts
