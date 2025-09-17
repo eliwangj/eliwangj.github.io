@@ -1,2 +1,4 @@
-.hugo_build.lock        # Hugo build lock file
-public/                 # Hugo build artifacts
+# Hugo build lock file
+.hugo_build.lock
+# Hugo build artifacts
+public/
