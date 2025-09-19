@@ -2,3 +2,5 @@
 .hugo_build.lock
 # Hugo build artifacts
 public/
+# Mac-specific files
+.DS_Store
