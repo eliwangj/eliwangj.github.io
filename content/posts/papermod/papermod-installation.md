@@ -1,5 +1,6 @@
 ---
 title: "Install / Update PaperMod"
+draft: true
 summary: Read aboout Install and Update instructions and sampled configuration templates
 date: 2021-01-20
 series: ["PaperMod"]
@@ -13,7 +14,6 @@ cover:
 social:
   fediverse_creator: "@adityatelange@mastodon.social"
 ---
-
 > - **We'll be using `yml/yaml` format for all examples down below, it is recommend to use `yaml` over `toml` as it is easier to read.**
 > - You can find any [YML to TOML](https://www.google.com/search?q=yml+to+toml) converters if needed.
 
@@ -21,17 +21,19 @@ social:
 
 ## Getting Started 🚀
 
-1. Follow **[Hugo Docs's - Quick Start](https://gohugo.io/getting-started/quick-start/)** guide to install {{< inTextImg url="https://raw.githubusercontent.com/gohugoio/hugoDocs/master/static/img/hugo-logo.png" height="14" >}}.
-   <br>(Make sure you install **Hugo >= v0.112.4**)
-
+1. Follow **[Hugo Docs&#39;s - Quick Start](https://gohugo.io/getting-started/quick-start/)** guide to install {{< inTextImg url="https://raw.githubusercontent.com/gohugoio/hugoDocs/master/static/img/hugo-logo.png" height="14" >}}.
+   `<br>`(Make sure you install **Hugo >= v0.112.4**)
 2. Create a new {{< inTextImg url="https://raw.githubusercontent.com/gohugoio/hugoDocs/master/static/img/hugo-logo.png" height="14" >}} site
+
    ```sh
    hugo new site MyFreshWebsite --format yaml
    # replace MyFreshWebsite with name of your website
    ```
+
    Note:
+
    - Older versions of Hugo may not support `--format yaml`
-   - Read more here about [Hugo Docs's - hugo new site command](https://gohugo.io/commands/hugo_new_site/#synopsis)
+   - Read more here about [Hugo Docs&#39;s - hugo new site command](https://gohugo.io/commands/hugo_new_site/#synopsis)
 
 After you have created a new site, follow the below steps to add **PaperMod**
 
@@ -101,7 +103,6 @@ Direct Links:
 **INSTALL** :
 
 - Install [Go programming language](https://go.dev/doc/install) in your operating system.
-
 - Intialize your own hugo mod
 
 ```
@@ -110,7 +111,7 @@ hugo mod init YOUR_OWN_GIT_REPOSITORY
 
 - Add PaperMod in your `config.yml` file
 
-```go {linenos=true}
+```go
 module:
   imports:
   - path: github.com/adityatelange/hugo-PaperMod
@@ -122,7 +123,7 @@ module:
 hugo mod get -u
 ```
 
-Read more : [Hugo Docs's - HUGO MODULES](https://gohugo.io/hugo-modules/use-modules/)
+Read more : [Hugo Docs&#39;s - HUGO MODULES](https://gohugo.io/hugo-modules/use-modules/)
 
 {{</ collapse >}}
 
@@ -130,14 +131,14 @@ Read more : [Hugo Docs's - HUGO MODULES](https://gohugo.io/hugo-modules/use-modu
 
 In `config.yml` add:
 
-```yml {linenos=true}
+```yml
 theme: ["PaperMod"]
 ```
 
 ### Next up - Customizing PaperMod to suit your preferences.
 
 - Your site will be blank after you set up for the very first time.
-- You may go through this website's source code - [PaperMod's exampleSite's source](https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite)
+- You may go through this website's source code - [PaperMod&#39;s exampleSite&#39;s source](https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite)
 - Scroll below this page where you will find more specific details about each section.
 - Kindly go through all of the pages below to know how to configure PaperMod.
 
@@ -162,13 +163,9 @@ You can go through few videos which are available on YouTube for getting to know
 ## Quick Links
 
 - ### [Papermod - Features](../papermod-features)
-
 - ### [Papermod - FAQs](../papermod-how-to)
-
 - ### [Papermod - Variables](../papermod-variables)
-
 - ### [Papermod - Icons](../papermod-icons)
-
 - ### [ChangeLog](https://github.com/adityatelange/hugo-PaperMod/releases)
 
 ---
