@@ -1,6 +1,7 @@
 ---
-author: ["Hugo Authors", "PaperMod Contributors"]
 title: "Rich Content and Shortcodes"
+draft: true
+author: ["Hugo Authors", "PaperMod Contributors"]
 date: "2019-03-10"
 description: "A brief description of Hugo Shortcodes"
 tags: ["markdown", "shortcodes", "privacy"]
