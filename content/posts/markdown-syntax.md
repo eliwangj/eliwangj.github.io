@@ -1,7 +1,8 @@
 ---
-author: "Hugo Authors"
 title: "Markdown Syntax Guide"
+draft: true
 date: "2019-03-11"
+author: "Hugo Authors"
 description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags: ["markdown", "css", "html", "themes"]
 categories: ["themes", "syntax"]
@@ -13,7 +14,6 @@ cover:
 ShowToc: true
 TocOpen: true
 ---
-
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 
 <!--more-->
@@ -53,9 +53,7 @@ The blockquote element represents content that is quoted from another source, op
 
 > Don't communicate by sharing memory, share memory by communicating.
 >
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
+> — `<cite>`Rob Pike[^1]`</cite>`
 
 ## Tables
 
@@ -68,8 +66,8 @@ Tables aren't part of the core Markdown spec, but Hugo supports them out-of-the-
 
 #### Inline Markdown within tables
 
-| Italics   | Bold     | Code   |
-| --------- | -------- | ------ |
+| Italics     | Bold           | Code     |
+| ----------- | -------------- | -------- |
 | _italics_ | **bold** | `code` |
 
 ## List Types
@@ -99,24 +97,26 @@ Tables aren't part of the core Markdown spec, but Hugo supports them out-of-the-
 #### Nested Ordered list
 
 1. Fruit
-    - Apple
-    - Orange
-    - Banana
+   - Apple
+   - Orange
+   - Banana
 2. Dairy
-    1. Milk
-    2. Cheese
+   1. Milk
+   2. Cheese
 3. Third item
-    1. Sub One
-    2. Sub Two
+   1. Sub One
+   2. Sub Two
 
 ## Other Elements — abbr, sub, sup, kbd, mark
 
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
+`<abbr title="Graphics Interchange Format">`GIF`</abbr>` is a bitmap image format.
 
-H<sub>2</sub>O
+H`<sub>`2`</sub>`O
 
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
+X`<sup>`n`</sup>` + Y`<sup>`n`</sup>` = Z`<sup>`n`</sup>`
 
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
+Press `<kbd><kbd>`CTRL`</kbd>`+`<kbd>`ALT`</kbd>`+`<kbd>`Delete`</kbd></kbd>` to end the session.
 
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+Most `<mark>`salamanders`</mark>` are nocturnal, and hunt for insects, worms, and other small creatures.
+
+[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
