@@ -25,17 +25,33 @@ the biggest difference between this blog and the other career advice blogs is th
 - 🧑‍💻 **Working professionals friendly**: most of the existing career advice posts are more applicable to students or PhDs. one of the goals of this blog is to supplement more realistic practices for regular software engineers like me who are already working full-time.
 - 🔍 **Focus on *how* to use resources**: this blog has actual explanations on the resources - why and how to use these resources. their origin, etc. some people have already done a great job putting together lots of resources, but i aim to provide a perspective on how to deal with the resources when you first encounter them.
 
-note: this blog is mostly written with technical alignment research in mind, as that's the direction i'm going for. although some principles might transfer, i suggest reading others' work on this topic (see governance/policy advice in resources)
+note: this blog is mostly written with technical alignment research in mind, as that's the direction i'm going for.
+
+### Career advice blogs
+
+I personally found the following career advice blogs contain useful information:
 
 [How To Become A Mechanistic Interpretability Researcher](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher) by Neel Nanda (Sep 2025) ⭐️
+
+
 [So you want to work on technical AI safety](https://www.lesswrong.com/posts/kGt3ukLR924kyfn5y/so-you-want-to-work-on-technical-ai-safety) by George Wang (Jun 2024) ⭐️
+
+
 [AI safety technical research](https://80000hours.org/career-reviews/ai-safety-researcher/) by Benjamin Hilton (Jun 2023)
 
-- [LessWrong version](https://www.lesswrong.com/posts/oXkgGAgJ35yNDRvzF/new-career-review-ai-safety-technical-research) (minorly edited)
-  [AGI safety career advice](https://www.lesswrong.com/posts/ho63vCb2MNFijinzY/agi-safety-career-advice) by Richard Ngo (May 2023) ⭐️
-  [Levelling Up in AI Safety Research Engineering](https://forum.effectivealtruism.org/posts/S7dhJR5TDwPb5jypG/levelling-up-in-ai-safety-research-engineering) by GabeM (Sep 2022)
-  [How to pursue a career in technical AI alignment](https://forum.effectivealtruism.org/posts/7WXPkpqKGKewAymJf/how-to-pursue-a-career-in-technical-ai-alignment) by Charlie Rogers-Smith (Jun 2022)  ⭐️
-  [FAQ: Advice for AI alignment researchers](https://rohinshah.com/faq-career-advice-for-ai-alignment-researchers/) by Rohin Shah (Jan 2021)
+[LessWrong version](https://www.lesswrong.com/posts/oXkgGAgJ35yNDRvzF/new-career-review-ai-safety-technical-research) (minorly edited)
+
+
+[AGI safety career advice](https://www.lesswrong.com/posts/ho63vCb2MNFijinzY/agi-safety-career-advice) by Richard Ngo (May 2023) ⭐️
+
+
+[Levelling Up in AI Safety Research Engineering](https://forum.effectivealtruism.org/posts/S7dhJR5TDwPb5jypG/levelling-up-in-ai-safety-research-engineering) by GabeM (Sep 2022)
+
+
+[How to pursue a career in technical AI alignment](https://forum.effectivealtruism.org/posts/7WXPkpqKGKewAymJf/how-to-pursue-a-career-in-technical-ai-alignment) by Charlie Rogers-Smith (Jun 2022)  ⭐️
+
+
+[FAQ: Advice for AI alignment researchers](https://rohinshah.com/faq-career-advice-for-ai-alignment-researchers/) by Rohin Shah (Jan 2021)
 
 below i'm going to highlight several concrete principles for someone like me to get started.
 
@@ -132,80 +148,25 @@ Example: [Redwood Research careers page](https://www.redwoodresearch.org/careers
 
 ### resource hubs
 
-[Events &amp; training](https://www.aisafety.com/events-and-training) - AISafety.com  ⭐️
-[AGI careers](https://80000hours.org/agi/) - 80,000 Hours
+[Events &amp; training](https://www.aisafety.com/events-and-training) by AISafety.com  ⭐️
 
-- [1-1 career advising](https://80000hours.org/speak-with-us/?int_campaign=primary-navigation) with the 80,000 Hours team
-  [AI Safety Papers](https://arkose.org/aisafety) & [Opportunities](https://arkose.org/opportunities) - Arkose
+[AGI careers](https://80000hours.org/agi/) by 80,000 Hours (they also offer [1-1 career advising](https://80000hours.org/speak-with-us/?int_campaign=primary-navigation))
+
+[AI Safety Papers](https://arkose.org/aisafety) & [Opportunities](https://arkose.org/opportunities) by Arkose
 
 ### organizations
 
-[Map of AI safety orgs](https://www.aisafety.com/map) - AISafety.com  ⭐️
-
-- the most comprehensive landscape for ai safety related orgs
+[Map of AI safety orgs](https://www.aisafety.com/map) by AISafety.com  ⭐️ - the most comprehensive landscape for ai safety related orgs
 
 ### research programs
 
 [MATS](https://www.matsprogram.org/) (in-person, full-time, Berkeley/London)
+
+
 [SPAR](https://sparai.org/) (part-time)
+
+
 [MARS](https://www.cambridgeaisafety.org/mars) (part-time)
+
+
 [Astra Fellowship](https://www.constellation.org/programs/astra-fellowship) by [Constellation](https://www.constellation.org/) (in-person, full-time, Berkeley)
-
-### governance/policy advice
-
-# actions
-
-1. programs: AISES
-   - understanding the landscape
-   - connect with like-minded folks
-   - just get the whole thing rolling
-2. research programs:
-   - applied for MATS and SPAR
-3. advising: [1-1 career advising](https://80000hours.org/speak-with-us/?int_campaign=primary-navigation) with the 80,000 Hours team
-   - submit application, a few simple questions (aug 25)
-   - application successful email, schedule and fill out agenda (sep 4)
-4. learning the basics: [fast.ai course](https://course.fast.ai/), [3Blue1Brown linear algebra course](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-5. networking: AISES, work
-
-# next steps
-
-1. quickly learn the basics
-2. advising: speaking with [Daniel Dewey](https://www.danieldewey.net/) on sep 23rd
-3. portfolio: personal website, small projects and write-ups, blogs
-   - one confirmed idea: why is intelligence a compelling theory (or why it's not)
-4. networking:
-   - keep in touch with AISES
-   - LessWrong
-   - EA forums
-   - events
-5. here're some ways to get mentorship that i'm going to try:
-   - [MARS](https://www.cambridgeaisafety.org/mars) (part-time)
-   - [SPAR](https://sparai.org/) (part-time)
-   - reaching out to PhD students under professors who do ai safety (recommended by a friend who does robustness research as a PhD)
-6. "keep an eye on emerging areas of AI safety in which no one is an expert" ⭐️
-   - [Neuro-symbolic AI](https://en.wikipedia.org/wiki/Neuro-symbolic_AI)
-   - [Gary Marcus](https://x.com/garymarcus)
-   - [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)
-
----
-
-suggestions from the folks:
-
-- marshall: having deadlines for the programs
-- ✅ nanda: technical vs. non-technical stream
-- ✅ audra: if they're resources that are already doing it very well, your added value can be "walking through these resources" and "how i find and use these resources", etc.
-
----
-
-# things maybe i can add later:
-
-[under mentorship section]
-here're more ways you can get mentorship if you can quit your job:
-
-1. all research programs
-2. doing a PhD
-3. spend 3~6 months upskilling ()
-
-# is technical alignment research the right thing to do for me? (optional, if i have time)
-
-[a quick summary paragraph]
