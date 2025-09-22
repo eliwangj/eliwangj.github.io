@@ -75,50 +75,52 @@ Here are a few ways to secure mentorship without quitting your job:
 1. **Part-time research programs** (e.g., SPAR, MARS, etc. - see the *research programs* section)
 2. **Direct outreach** to professors or PhD students working on AI safety to see if you can contribute to their papers
 
-# have something to show
+## Have Something to Show
 
-this is another thing that everyone recommends.
+This is another universal recommendation across all the career advice I've encountered.
 
-George Wang (research lead at [Timaeus](https://timaeus.co/)) in [So you want to work on technical AI safety](https://www.lesswrong.com/posts/kGt3ukLR924kyfn5y/so-you-want-to-work-on-technical-ai-safety):
+George Wang (research lead at [Timaeus](https://timaeus.co/)) explains the incremental approach in [So you want to work on technical AI safety](https://www.lesswrong.com/posts/kGt3ukLR924kyfn5y/so-you-want-to-work-on-technical-ai-safety):
 
-> The general idea here is to do a small thing to show that you’re a good candidate for a medium thing, then do a medium thing to show you can do a bigger thing, and so on.
+> The general idea here is to do a small thing to show that you're a good candidate for a medium thing, then do a medium thing to show you can do a bigger thing, and so on.
 
-you need to give the interviewer/mentor/professor a reason to work with you. a portfolio is a strong signal to prevent false positives (hiring someone you **shouldn’t** have hired).
-(take myself as an example, if i want to cold email a professor or a potential mentor, i don't even know how to, because i don't have anything to show them yet. i can't just be like "oh i'm super interested please give me a chance")
+You need to give interviewers, mentors, or professors a concrete reason to work with you. A portfolio serves as a strong signal to **prevent false positives**—hiring someone they shouldn't have hired.
 
-Neel Nanda in [How To Become A Mechanistic Interpretability Researcher](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher):
 
-> Further, if you want to pursue a career in the space, whether a job, a PhD, or just informally working with mentors, **public research output is your best credential**. It's very clear and concrete proof that you are competent, can execute on research and do interesting things, and this is exactly the kind of evidence people care about seeing if they're trying to figure out whether they should work with you, pay attention to what you're saying, etc.
+Neel Nanda emphasizes this point in [How To Become A Mechanistic Interpretability Researcher](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher):
 
-what do hiring managers look for:
+> Further, if you want to pursue a career in the space, whether a job, a PhD, or just informally working with mentors, **public research output is your best credential**. It's very clear and concrete proof that you are competent, can execute on research and do interesting things, and this is exactly the kind of evidence people care about seeing if they're trying to figure out whether they should work with you, pay attention to what you're saying, etc.
+
+What hiring managers ultimately look for:
 
 > Your goal as a candidate is to provide compelling, hard-to-fake evidence of your skills. The best way to do that is to simply do good research and share it publicly.
 
-# skip forward aggressively
+## Skip Forward Aggressively
 
-George Wang in [So you want to work on technical AI safety](https://www.lesswrong.com/posts/kGt3ukLR924kyfn5y/so-you-want-to-work-on-technical-ai-safety):
+George Wang advocates for an accelerated approach in [So you want to work on technical AI safety](https://www.lesswrong.com/posts/kGt3ukLR924kyfn5y/so-you-want-to-work-on-technical-ai-safety):
 
-> As a general note, **I don't recommend that you try to do everything listed in depth**. I'm trying not to leave huge gaps here, but you can and should try to skip forward aggressively, and you'll probably find that you're ready for later steps much sooner than you think you are.
+> As a general note, **I don't recommend that you try to do everything listed in depth**. I'm trying not to leave huge gaps here, but you can and should try to skip forward aggressively, and you'll probably find that you're ready for later steps much sooner than you think you are.
 
-let's say the entire road looks like this:
+Let's say the entire learning roadmap looks like this:
 ![[Pasted image 20250911121314.png]]
 
-i should try doing step n+1 or even n+ 2 while i'm still at still n. sometimes i might already able to perform step n+1 despite i'm still at n. though sometimes i'd predictably hit a wall or blocker when i'm trying to reach ahead. (happened to me as i'm trying to get into these programs without even knowing how neural networks work 😂) but it's okay if you hit a wall, now at least you know what exactly to work on, that's also progress! if i didn't try applying, i might still be over-studying unnecessary stuff or don't even know what's required.
+I should attempt step n+1 or even n+2 while I'm still working on step n. Sometimes I might already be capable of performing step n+1 despite still being at step n. Other times, I'll predictably hit a wall or blocker when trying to reach ahead.
 
-but i think the general rule is to leap forward quickly. because timelines are short enough, and i don't need to be a top researcher to get a research role. i just need to meet the bar and learn the rest on the job.
+But hitting that wall is actually valuable—now I know exactly what to work on next. That's progress in itself. If I hadn't tried applying, I might still be over-studying unnecessary material or remain unaware of the actual requirements.
 
-In a [blog post about hiring for safety researchers](https://www.lesswrong.com/posts/nzmCvRvPm4xJuqztv/deepmind-is-hiring-for-the-scalable-alignment-and-alignment), the Google DeepMind team said:
+I believe the general principle is to leap forward quickly, especially given that AI safety timelines are short. I don't need to become a top researcher to land a research role—I just need to meet the minimum bar and learn the rest on the job.
 
-> As a rough test for the Research Engineer role, if you can reproduce a typical ML paper in a few hundred hours and your interests align with ours, we’re probably interested in interviewing you.
+This approach is validated by real hiring practices. In a [blog post about hiring for safety researchers](https://www.lesswrong.com/posts/nzmCvRvPm4xJuqztv/deepmind-is-hiring-for-the-scalable-alignment-and-alignment), the Google DeepMind team stated:
+
+> As a rough test for the Research Engineer role, if you can reproduce a typical ML paper in a few hundred hours and your interests align with ours, we're probably interested in interviewing you.
 
 
-# excel at your current job
+## Excel at Your Current Job
 
-Excelling where you are builds **career capital**—skills, reputation, mentors, and runway—that top alignment teams actually hire for.
+Excelling in your current role builds essential **career capital**—the skills, reputation, professional network, and financial runway that top alignment teams actively seek when hiring.
 
-Just as importantly, **strong software engineering is a must-have** for technical alignment roles: frontier labs overwhelmingly hire “research engineers” who design experiments, build tooling, and operate large distributed systems—requirements that map directly to high-performing SWE experience.
+Equally important: **strong software engineering skills are non-negotiable** for technical alignment positions. Frontier research labs predominantly hire "research engineers" who design experiments, build specialized tooling, and manage large distributed systems. These requirements align perfectly with the experience gained from high-performing software engineering roles.
 
-Example: [Redwood Research careers page](https://www.redwoodresearch.org/careers)
+**Example:** [Redwood Research careers page](https://www.redwoodresearch.org/careers)
 ![[Pasted image 20250913203036.png]]
 
 ## Resources
