@@ -18,14 +18,14 @@ TocOpen: false
 ShowReadingTime: true
 ShowPostNavLinks: false
 ---
-# how is this blog different
+## How Is This Blog Different
 
-the biggest difference between this blog and the other career advice blogs is that this is a newbie's attempt to strategize his way into ai safety technical research. here're a few reasons why you might still care enough to read:
+The biggest difference between this blog and other career advice resources is that it represents a newcomer's real-time attempt to break into AI safety technical research. Here are a few reasons why you might find it worth reading:
 
-- 🧑‍💻 **Working professionals friendly**: most of the existing career advice posts are more applicable to students or PhDs. one of the goals of this blog is to supplement more realistic practices for regular software engineers like me who are already working full-time.
-- 🔍 **Focus on *how* to use resources**: this blog has actual explanations on the resources - why and how to use these resources. their origin, etc. some people have already done a great job putting together lots of resources, but i aim to provide a perspective on how to deal with the resources when you first encounter them.
+- 🧑‍💻 **Working professionals friendly**: Most existing career advice is geared toward students or PhDs. One of my goals is to offer more realistic, practical guidance for working software engineers like myself who are already employed full-time.
+- 🔍 **Focus on *how* to use resources**: Rather than just listing resources, I provide actual explanations about why and how to use them effectively. While others have done excellent work compiling comprehensive resource lists, I aim to offer insights on navigating these resources when you first encounter them.
 
-note: this blog is mostly written with technical alignment research in mind, as that's the direction i'm going for.
+**Note:** This blog is primarily written with technical alignment research in mind, since that's the path I'm pursuing.
 
 ### Career advice blogs
 
@@ -33,55 +33,47 @@ I personally found the following career advice blogs contain useful information:
 
 [How To Become A Mechanistic Interpretability Researcher](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher) by Neel Nanda (Sep 2025) ⭐️
 
-
 [So you want to work on technical AI safety](https://www.lesswrong.com/posts/kGt3ukLR924kyfn5y/so-you-want-to-work-on-technical-ai-safety) by George Wang (Jun 2024) ⭐️
 
-
-[AI safety technical research](https://80000hours.org/career-reviews/ai-safety-researcher/) by Benjamin Hilton (Jun 2023)
-
-[LessWrong version](https://www.lesswrong.com/posts/oXkgGAgJ35yNDRvzF/new-career-review-ai-safety-technical-research) (minorly edited)
-
+[AI safety technical research](https://80000hours.org/career-reviews/ai-safety-researcher/) by Benjamin Hilton (Jun 2023) ([LessWrong version](https://www.lesswrong.com/posts/oXkgGAgJ35yNDRvzF/new-career-review-ai-safety-technical-research))
 
 [AGI safety career advice](https://www.lesswrong.com/posts/ho63vCb2MNFijinzY/agi-safety-career-advice) by Richard Ngo (May 2023) ⭐️
 
-
 [Levelling Up in AI Safety Research Engineering](https://forum.effectivealtruism.org/posts/S7dhJR5TDwPb5jypG/levelling-up-in-ai-safety-research-engineering) by GabeM (Sep 2022)
-
 
 [How to pursue a career in technical AI alignment](https://forum.effectivealtruism.org/posts/7WXPkpqKGKewAymJf/how-to-pursue-a-career-in-technical-ai-alignment) by Charlie Rogers-Smith (Jun 2022)  ⭐️
 
-
 [FAQ: Advice for AI alignment researchers](https://rohinshah.com/faq-career-advice-for-ai-alignment-researchers/) by Rohin Shah (Jan 2021)
 
-below i'm going to highlight several concrete principles for someone like me to get started.
+Below, I'll highlight several concrete principles for someone like me to get started.
 
-# mentorship
+## Mentorship
 
-this is the first thing that *every* person and career advice blog i came across mentioned.
+This is the first thing that *every* person and career advice blog I came across mentioned.
 
-In Richard Ngo's [AGI safety career advice](https://www.lesswrong.com/posts/ho63vCb2MNFijinzY/agi-safety-career-advice), he specifically talks about:
+In Richard Ngo's [AGI safety career advice](https://www.lesswrong.com/posts/ho63vCb2MNFijinzY/agi-safety-career-advice), he specifically emphasizes:
 
 > If you have little research experience, your main priority should be finding the best mentor possible to help you gain research skills
 
-Ethan Perez in [Tips for Empirical Alignment Research](https://www.alignmentforum.org/posts/dZFpEdKyb9Bf4xYn7/tips-for-empirical-alignment-research):
+Ethan Perez echoes this in [Tips for Empirical Alignment Research](https://www.alignmentforum.org/posts/dZFpEdKyb9Bf4xYn7/tips-for-empirical-alignment-research):
 
 > Close mentorship is maybe the fastest path to become an expert in a domain, and there's a lot of evidence to support this.
 
-In MATS’ alumni evaluation, **72%** said mentorship was the most valuable or a major share of value.
+The data backs this up: In MATS' alumni evaluation, **72%** said mentorship was either the most valuable aspect or represented a major share of the program's value.
 
-here's why i think mentorship is considered so critically important in technical alignment research:
+Here's why I think mentorship is considered so critically important in technical alignment research:
 
-- you'd get fast feedback loops
-- connections through your mentor
-- higher chances of actual publications
-- mentoring correlates with better career and productivity outcomes across many research domains, not just alignment
+- **Fast feedback loops** on your work and thinking
+- **Network connections** through your mentor's professional relationships
+- **Higher publication success** rates through guided research
+- **Proven track record** - mentoring correlates with better career and productivity outcomes across many research domains, not just alignment
 
-the importance of mentorship leads to one of the reasons why technical alignment research is so difficult to get in: **Alignment is mentorship-constrained** - the field is still so small that there just aren't that many experts, compared with the amount of people who want to get in.
+The central importance of mentorship leads to one of the key challenges in entering technical alignment research: **Alignment is mentorship-constrained**. The field remains small, with far fewer experienced researchers than aspiring newcomers.
 
-here're a few ways to get mentorship without quitting your job:
+Here are a few ways to secure mentorship without quitting your job:
 
-1. part-time research programs (e.g. SPAR, MARS, etc. see section *research programs*)
-2. reaching out to professors or PhD students under professors who do ai safety and see if you can help with any of their papers (recommended by a friend who does robustness research as a PhD)
+1. **Part-time research programs** (e.g., SPAR, MARS, etc. - see the *research programs* section)
+2. **Direct outreach** to professors or PhD students working on AI safety to see if you can contribute to their papers
 
 # have something to show
 
@@ -119,21 +111,6 @@ In a [blog post about hiring for safety researchers](https://www.lesswrong.com/
 
 > As a rough test for the Research Engineer role, if you can reproduce a typical ML paper in a few hundred hours and your interests align with ours, we’re probably interested in interviewing you.
 
-# use AI more
-
-this one seems obvious but here and there i'd have these moments where i think to myself: "ah why didn't i think of using chatgpt/cursor/[ai tools] to do this!" and "had i used ai to do this, it would've been a lot faster/easier"
-so i came up with a rule of thumb for myself: assume yourself that you're always under-utilizing AI.
-
-this blog post can be a perfect example:
-i spent lots of time searching career advice posts by jumping between links. and when i was drafting this blog, i did a chatgpt search with a simple prompt:
-
-```text
-find all ai safety/alignment technical research career advice blogs/posts
-```
-
-and the list it gave me is actually super high-quality. it covered most if not all high-quality career advice i found myself through lots of searching and cross-referencing and re-directing. across several weeks.
-
-John Hughes and Ethan Perez's [Tips and Code for Empirical Research Workflows](https://www.lesswrong.com/posts/6P8GYb4AjtPXx6LLB/tips-and-code-for-empirical-research-workflows) has some great ai tool use tips for doing empirical research. but i think the principle of using AI more extends far beyond research process itself.
 
 # excel at your current job
 
@@ -144,9 +121,9 @@ Just as importantly, **strong software engineering is a must-have** for technica
 Example: [Redwood Research careers page](https://www.redwoodresearch.org/careers)
 ![[Pasted image 20250913203036.png]]
 
-# resources
+## Resources
 
-### resource hubs
+### Resource hubs
 
 [Events &amp; training](https://www.aisafety.com/events-and-training) by AISafety.com  ⭐️
 
@@ -154,19 +131,16 @@ Example: [Redwood Research careers page](https://www.redwoodresearch.org/careers
 
 [AI Safety Papers](https://arkose.org/aisafety) & [Opportunities](https://arkose.org/opportunities) by Arkose
 
-### organizations
+### Organizations
 
 [Map of AI safety orgs](https://www.aisafety.com/map) by AISafety.com  ⭐️ - the most comprehensive landscape for ai safety related orgs
 
-### research programs
+### Research programs
 
 [MATS](https://www.matsprogram.org/) (in-person, full-time, Berkeley/London)
 
-
 [SPAR](https://sparai.org/) (part-time)
 
-
 [MARS](https://www.cambridgeaisafety.org/mars) (part-time)
-
 
 [Astra Fellowship](https://www.constellation.org/programs/astra-fellowship) by [Constellation](https://www.constellation.org/) (in-person, full-time, Berkeley)
