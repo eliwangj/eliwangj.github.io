@@ -101,7 +101,7 @@ George Wang advocates for an accelerated approach in [So you want to work on tec
 > As a general note, **I don't recommend that you try to do everything listed in depth**. I'm trying not to leave huge gaps here, but you can and should try to skip forward aggressively, and you'll probably find that you're ready for later steps much sooner than you think you are.
 
 Let's say the entire learning roadmap looks like this:
-![[Pasted image 20250911121314.png]]
+![Learning steps](step-n.png)
 
 I should attempt step n+1 or even n+2 while I'm still working on step n. Sometimes I might already be capable of performing step n+1 despite still being at step n. Other times, I'll predictably hit a wall or blocker when trying to reach ahead.
 
@@ -121,7 +121,7 @@ Excelling in your current role builds essential **career capital**—the skills,
 Equally important: **strong software engineering skills are non-negotiable** for technical alignment positions. Frontier research labs predominantly hire "research engineers" who design experiments, build specialized tooling, and manage large distributed systems. These requirements align perfectly with the experience gained from high-performing software engineering roles.
 
 **Example:** [Redwood Research careers page](https://www.redwoodresearch.org/careers)
-![[Pasted image 20250913203036.png]]
+![Redwood Research Career Requirements](redwood-careers.png)
 
 ## Resources
 
