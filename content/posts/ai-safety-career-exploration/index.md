@@ -15,7 +15,8 @@ cover:
 ShowToc: true
 UseHugoToc: true
 TocOpen: false
-ShowReadingTime: true
+ShowReadingTime: false
+lastmod: 2026-03-22T00:00:00Z
 ShowPostNavLinks: false
 ---
 ## How Is This Blog Different
