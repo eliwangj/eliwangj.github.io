@@ -1,7 +1,7 @@
 ---
 title: "A Software Engineer's Guide to AI Safety Research"
 draft: false
-summary: "A newbie's attempt to strategize his way into AI safety technical research."
+summary: "Practical advice for engineers curious about contributing to AI safety."
 date: 2025-09-20T10:00:00Z
 tags: ["career", "resources"]
 categories: ["Career"]
