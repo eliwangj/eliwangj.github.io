@@ -1,5 +1,5 @@
 ---
-title: "AI Safety Career Exploration"
+title: "A Software Engineer's Guide to AI Safety Research"
 draft: false
 summary: "A newbie's attempt to strategize his way into AI safety technical research."
 date: 2025-09-20T10:00:00Z
