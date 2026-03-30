@@ -14,6 +14,13 @@
 - [ ] Review and slim down `content/posts/ai-safety-landscape/PROJECT_BRIEF.md`
   - Goal: remove unnecessary information, keep it lean
 
+## "Thinking in Implications" Post (added 2026-03-30)
+
+- [ ] Write the post (`content/posts/thinking-in-implications.md`)
+  - Core idea: making it a principle to think through implications and second-order consequences of actions/events — from self, others, and the world
+  - Why it matters: contributes to long-term vision, a key differentiator
+  - Draft created with inspiration captured in HTML comments — flesh out with actual writing
+
 ## Landscape Post Content
 
 - [ ] Rewrite the landscape post (`content/posts/ai-safety-landscape/index.md`) in own voice
