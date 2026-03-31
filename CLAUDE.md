@@ -29,6 +29,11 @@ Personal blog built with Hugo and the PaperMod theme, deployed to GitHub Pages.
 - Custom CSS: `assets/assets/css/extended/custom.css`
 - Custom post metadata partial: `layouts/partials/post_meta.html`
 
+## TODO.md Preferences
+
+- Use checklists for all sub-items when a task has significant effort or multiple sub-items
+- Organize entries in reverse chronological order (newest at the top)
+
 ## Deployment
 
 - Pushes to `main` trigger GitHub Actions deploy to GitHub Pages
