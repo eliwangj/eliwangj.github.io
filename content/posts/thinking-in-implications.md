@@ -1,7 +1,8 @@
 ---
 title: "Thinking in Implications"
-date: 2026-03-30
+date:
 draft: true
+ideation_date: 2026-03-30
 tags: ["philosophy", "thinking"]
 categories: ["Philosophy"]
 summary: "On the habit of tracing second-order consequences — of my own actions, other people's, and the world's — and why it matters for long-term vision."

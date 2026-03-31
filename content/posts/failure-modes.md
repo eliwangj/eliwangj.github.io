@@ -1,7 +1,8 @@
 ---
 title: "How can AI possibly go wrong??"
-date: 2026-03-31
+date:
 draft: true
+ideation_date: 2026-03-31
 tags: ["ai-safety", "failure-modes"]
 categories: ["AI Safety"]
 summary: "My take on the failure modes of AI — how could AI possibly go wrong?"

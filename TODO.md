@@ -3,11 +3,12 @@
 ## Blog Post Front Matter
 
 - [ ] Standardize YAML front matter across all blog posts
-  - The **career exploration** post (`content/posts/ai-safety-career-exploration/index.md`) and the **landscape** post (`content/posts/ai-safety-landscape/index.md`) have divergent metadata schemas
-  - Career post uses: `title`, `draft`, `summary`, `date`, `tags`, `categories`, `weight`, `cover`, `ShowToc`, `UseHugoToc`, `TocOpen`, `ShowReadingTime`, `lastmod`, `ShowPostNavLinks`
-  - Landscape post uses: `title`, `date`, `draft`, `tags`, `categories`, `series`, `description`, `status`, `iteration`, `planned_iterations`, `confidence`, `last_reviewed`, `needs_review`, `open_questions`
-  - Decide on one unified set — remove fields that aren't needed, merge the useful ones
-  - Apply the standard to both posts (and any future posts)
+  - [ ] The **career exploration** post (`content/posts/ai-safety-career-exploration/index.md`) and the **landscape** post (`content/posts/ai-safety-landscape/index.md`) have divergent metadata schemas
+  - [ ] Career post uses: `title`, `draft`, `summary`, `date`, `tags`, `categories`, `weight`, `cover`, `ShowToc`, `UseHugoToc`, `TocOpen`, `ShowReadingTime`, `lastmod`, `ShowPostNavLinks`
+  - [ ] Landscape post uses: `title`, `date`, `draft`, `tags`, `categories`, `series`, `description`, `status`, `iteration`, `planned_iterations`, `confidence`, `last_reviewed`, `needs_review`, `open_questions`
+  - [x] New draft posts now use `ideation_date` (custom param) to track when the idea was born, separate from `date` (publish date) and `lastmod` (last updated)
+  - [ ] Decide on one unified set — remove fields that aren't needed, merge the useful ones
+  - [ ] Apply the standard to all posts (including new drafts)
 
 ## Project Brief
 
