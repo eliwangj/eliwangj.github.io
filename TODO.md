@@ -21,6 +21,13 @@
   - Why it matters: contributes to long-term vision, a key differentiator
   - Draft created with inspiration captured in HTML comments — flesh out with actual writing
 
+## "How Can AI Possibly Go Wrong?" Post (added 2026-03-31)
+
+- [ ] Write the post (`content/posts/failure-modes.md`)
+  - Inspired by recurring conversations with friends/family — "how could AI go wrong?"
+  - Give my own take on AI failure modes, alongside existing researcher perspectives
+  - Opening conversation with friend is already in the draft
+
 ## Landscape Post Content
 
 - [ ] Rewrite the landscape post (`content/posts/ai-safety-landscape/index.md`) in own voice
