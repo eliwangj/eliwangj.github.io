@@ -1,5 +1,14 @@
 # TODO
 
+## "On Foresight, Timing, and the AI Boom" Post (added 2026-03-31)
+
+- [ ] Write the post (`content/posts/catching-the-wave.md`)
+  - Title is TBD
+  - Retrospective on 2017–now: why I didn't go straight into CS/AI, and what long-term vision means
+  - Organized notes and inspirations are in the draft — flesh out with actual writing
+  - Still need to think through the actual lesson and takeaways — right now it's inspiration and the "pain button", not a formed thesis yet
+  - Core lesson section is a placeholder — the heart of the post
+
 ## "How Can AI Possibly Go Wrong?" Post (added 2026-03-31)
 
 - [ ] Write the post (`content/posts/failure-modes.md`)
