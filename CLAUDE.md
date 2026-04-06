@@ -34,6 +34,10 @@ Personal blog built with Hugo and the PaperMod theme, deployed to GitHub Pages.
 - Use checklists for all sub-items when a task has significant effort or multiple sub-items
 - Organize entries in reverse chronological order (newest at the top)
 
+## Git Workflow
+
+- Always commit and push changes without waiting for explicit confirmation. If I don't want to commit and push immediately, I will say so explicitly.
+
 ## Deployment
 
 - Pushes to `main` trigger GitHub Actions deploy to GitHub Pages

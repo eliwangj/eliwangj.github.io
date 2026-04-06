@@ -1,5 +1,10 @@
 # TODO
 
+## Mobile-Friendly Website (added 2026-03-31)
+
+- [ ] Make the site and any demos mobile-viewing-friendly
+  - Use case: showing work to people on the go from a phone
+
 ## "On Foresight, Timing, and the AI Boom" Post (added 2026-03-31)
 
 - [ ] Write the post (`content/posts/catching-the-wave.md`)
