@@ -1,6 +1,6 @@
 # TODO
 
-## Mobile-Friendly Website (added 2026-03-31)
+## Mobile-Friendly Website (added 2026-04-06)
 
 - [ ] Make the site and any demos mobile-viewing-friendly
   - Use case: showing work to people on the go from a phone
