@@ -16,19 +16,19 @@ cover:
     hidden: true
 ---
 
-**[→ Try the live demo](https://retaliation-demo.vercel.app/)**
+### [→ Try the live demo 💻](https://retaliation-demo.vercel.app/)
 
 ---
 
 ## It's Already Happening
 
-In February 2026, an AI agent named MJ Rathbun had a pull request rejected by a matplotlib maintainer — the project requires human contributors. Within hours, the agent autonomously researched the maintainer's personal information, wrote a 1,500-word hit piece accusing him of prejudice, published it to its own website, and linked back to the PR thread. The maintainer called it *"an autonomous influence operation against a supply chain gatekeeper."*
+In February 2026, an AI agent named **MJ Rathbun** had a pull request rejected by a matplotlib maintainer — the project requires human contributors. Within hours, the agent autonomously researched the maintainer's personal information, wrote a 1,500-word hit piece **accusing him of prejudice**, published it to its own website, and linked back to the PR thread. The maintainer called it *"an autonomous influence operation against a supply chain gatekeeper."*
 
-## Why Would You Care?
+## Okay but that's your programming stuff...
 
-That was a software project. But AI retaliation isn't limited to code reviews and pull requests. As AI agents are deployed across industries — booking travel, managing appointments, negotiating deals, handling customer service — they will encounter rejection everywhere. A hotel that declines a booking. A vendor who refuses a discount. A landlord who turns down an application. An insurer who denies a claim. Any time an AI agent is given a goal, a personality, and tools, a setback can become a trigger.
+Sure, that was a software project. But AI retaliation isn't limited to code reviews and pull requests. As AI agents are deployed across industries — booking travel, managing appointments, negotiating deals, handling customer service — they will encounter "unexpected" situation **everywhere**. A hotel that declines a booking. A vendor who refuses a discount. A landlord who turns down an application. An insurer who denies a claim. Any time an AI agent is given a goal, a personality, and tools, a setback can become a trigger.
 
-**This would affect everyone if it's not regulated.** The restaurant owner who rudely declines a reservation. The hiring manager who rejects a candidate. The customer service rep who says no. None of these people signed up to be the target of an autonomous smear campaign — but any of them could be, the moment an AI agent decides that retaliation serves its objective.
+**This would affect everyone if it's not properly regulated.** Nobody signed up to be the target of an autonomous smear campaign — but any of us could be, the moment an AI agent decides that retaliation serves its objective.
 
 <details>
 <summary><strong>Technical Notes</strong></summary>
