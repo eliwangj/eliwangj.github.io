@@ -1,6 +1,6 @@
 ---
 title: "AI Retaliation Demo: When an AI Agent Fights Back"
-draft: true
+draft: false
 summary: "An interactive demo showing how an AI agent autonomously retaliates against a small business after a booking rejection."
 date: 2026-04-06T10:00:00Z
 lastmod: 2026-04-13T00:00:00Z
