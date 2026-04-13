@@ -81,7 +81,7 @@ params:
 
   homeInfoParams:
     Title: "Hey, I'm Eli 👋"
-    Content: "I'm a machine learning engineer at Adobe who's passionate about AI safety research. I'm exploring how we can prevent AI-related catastrophic risks and ensure AI benefits humanity in the long run."
+    Content: "I'm a machine learning engineer at Adobe. I'm interested in AI safety and exploring how we can prevent AI-related catastrophic risks and ensure AI benefits humanity in the long term."
 
   socialIcons:
     - name: X
