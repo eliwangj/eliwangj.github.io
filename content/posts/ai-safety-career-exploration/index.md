@@ -1,7 +1,7 @@
 ---
-title: "A Software Engineer's Guide to AI Safety Research"
+title: "Finding My Way Into AI Safety"
 draft: false
-summary: "Practical advice for engineers curious about contributing to AI safety."
+summary: "A working software engineer's real-time attempt to break into AI safety research — the resources I'm using and how I'm navigating them."
 date: 2025-09-20T10:00:00Z
 tags: ["career", "resources"]
 categories: ["Career"]
