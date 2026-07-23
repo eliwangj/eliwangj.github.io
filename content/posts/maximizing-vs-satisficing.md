@@ -1,6 +1,6 @@
 ---
 title: "Maximizing vs. Satisficing"
-draft: false
+draft: true
 date: 2026-04-19
 tags: ["reflection", "productivity", "philosophy"]
 categories: ["Reflection"]
