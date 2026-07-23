@@ -5,7 +5,6 @@ summary: "Practical advice for engineers curious about contributing to AI safety
 date: 2025-09-20T10:00:00Z
 tags: ["career", "resources"]
 categories: ["Career"]
-weight: 1
 cover:
     image: ""
     alt: ""
