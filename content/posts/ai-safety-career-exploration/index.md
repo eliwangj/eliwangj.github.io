@@ -1,16 +1,16 @@
 ---
 title: "Finding My Way Into AI Safety"
 draft: false
-summary: "A working software engineer's real-time attempt to break into AI safety research — the resources I'm using and how I'm navigating them."
+summary: "Sometimes you can just do things."
 date: 2025-09-20T10:00:00Z
 tags: ["career", "resources"]
 categories: ["Career"]
 cover:
-    image: ""
-    alt: ""
-    caption: ""
-    relative: false
-    hidden: true
+  image: ""
+  alt: ""
+  caption: ""
+  relative: false
+  hidden: true
 ShowToc: true
 UseHugoToc: true
 TocOpen: false
@@ -18,12 +18,13 @@ ShowReadingTime: false
 lastmod: 2026-03-22T00:00:00Z
 ShowPostNavLinks: false
 ---
+
 ## How Is This Blog Different
 
 The biggest difference between this blog and other career advice resources is that it represents a newcomer's real-time attempt to break into AI safety technical research. Here are a few reasons why you might find it worth reading:
 
 - 🧑‍💻 **Working professionals friendly**: Most existing career advice is geared toward students or PhDs. One of my goals is to offer more realistic, practical guidance for working software engineers like myself who are already employed full-time.
-- 🔍 **Focus on *how* to use resources**: Rather than just listing resources, I provide actual explanations about why and how to use them effectively. While others have done excellent work compiling comprehensive resource lists, I aim to offer insights on navigating these resources when you first encounter them.
+- 🔍 **Focus on _how_ to use resources**: Rather than just listing resources, I provide actual explanations about why and how to use them effectively. While others have done excellent work compiling comprehensive resource lists, I aim to offer insights on navigating these resources when you first encounter them.
 
 **Note:** This blog is primarily written with technical alignment research in mind, since that's the path I'm pursuing.
 
@@ -41,7 +42,7 @@ I personally found the following career advice blogs contain useful information:
 
 [Levelling Up in AI Safety Research Engineering](https://forum.effectivealtruism.org/posts/S7dhJR5TDwPb5jypG/levelling-up-in-ai-safety-research-engineering) by GabeM (Sep 2022)
 
-[How to pursue a career in technical AI alignment](https://forum.effectivealtruism.org/posts/7WXPkpqKGKewAymJf/how-to-pursue-a-career-in-technical-ai-alignment) by Charlie Rogers-Smith (Jun 2022)  ⭐️
+[How to pursue a career in technical AI alignment](https://forum.effectivealtruism.org/posts/7WXPkpqKGKewAymJf/how-to-pursue-a-career-in-technical-ai-alignment) by Charlie Rogers-Smith (Jun 2022) ⭐️
 
 [FAQ: Advice for AI alignment researchers](https://rohinshah.com/faq-career-advice-for-ai-alignment-researchers/) by Rohin Shah (Jan 2021)
 
@@ -49,7 +50,7 @@ Below, I'll highlight several concrete principles for someone like me to get sta
 
 ## Mentorship
 
-This is the first thing that *every* person and career advice blog I came across mentioned.
+This is the first thing that _every_ person and career advice blog I came across mentioned.
 
 In Richard Ngo's [AGI safety career advice](https://www.lesswrong.com/posts/ho63vCb2MNFijinzY/agi-safety-career-advice), he specifically emphasizes:
 
@@ -72,7 +73,7 @@ The central importance of mentorship leads to one of the key challenges in enter
 
 Here are a few ways to secure mentorship without quitting your job:
 
-1. **Part-time research programs** (e.g., SPAR, MARS, etc. - see the *research programs* section)
+1. **Part-time research programs** (e.g., SPAR, MARS, etc. - see the _research programs_ section)
 2. **Direct outreach** to professors or PhD students working on AI safety to see if you can contribute to their papers
 
 ## Have Something to Show
@@ -84,7 +85,6 @@ George Wang (research lead at [Timaeus](https://timaeus.co/)) explains the incre
 > The general idea here is to do a small thing to show that you're a good candidate for a medium thing, then do a medium thing to show you can do a bigger thing, and so on.
 
 You need to give interviewers, mentors, or professors a concrete reason to work with you. A portfolio serves as a strong signal to **prevent false positives**—hiring someone they shouldn't have hired.
-
 
 Neel Nanda emphasizes this point in [How To Become A Mechanistic Interpretability Researcher](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher):
 
@@ -113,7 +113,6 @@ This approach is validated by real hiring practices. In a [blog post about hirin
 
 > As a rough test for the Research Engineer role, if you can reproduce a typical ML paper in a few hundred hours and your interests align with ours, we're probably interested in interviewing you.
 
-
 ## Excel at Your Current Job
 
 Excelling in your current role builds essential **career capital**—the skills, reputation, professional network, and financial runway that top alignment teams actively seek when hiring.
@@ -127,7 +126,7 @@ Equally important: **strong software engineering skills are non-negotiable** for
 
 ### Resource hubs
 
-[Events &amp; training](https://www.aisafety.com/events-and-training) by AISafety.com  ⭐️
+[Events &amp; training](https://www.aisafety.com/events-and-training) by AISafety.com ⭐️
 
 [AGI careers](https://80000hours.org/agi/) by 80,000 Hours (they also offer [1-1 career advising](https://80000hours.org/speak-with-us/?int_campaign=primary-navigation))
 
@@ -135,7 +134,7 @@ Equally important: **strong software engineering skills are non-negotiable** for
 
 ### Organizations
 
-[Map of AI safety orgs](https://www.aisafety.com/map) by AISafety.com  ⭐️ - the most comprehensive landscape for ai safety related orgs
+[Map of AI safety orgs](https://www.aisafety.com/map) by AISafety.com ⭐️ - the most comprehensive landscape for ai safety related orgs
 
 ### Research programs
 

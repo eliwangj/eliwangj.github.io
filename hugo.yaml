@@ -80,7 +80,7 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Hey, I'm Eli 👋"
+    Title: "I'm Eli 🤔🤖🎾😴👨‍💻🥳"
     Content: "I'm a machine learning engineer at Adobe. I'm interested in AI safety and exploring how we can prevent AI-related catastrophic risks and ensure AI benefits humanity in the long term."
 
   socialIcons:
@@ -90,7 +90,6 @@ params:
     - name: LinkedIn
       title: Find me on LinkedIn
       url: "https://www.linkedin.com/in/eliwangjq/"
-
 
   editPost:
     URL: "https://github.com/eliwangj/elis-website/edit/main/content"

@@ -1,7 +1,7 @@
 ---
 title: "AI Retaliation Demo: When an AI Agent Fights Back"
 draft: false
-summary: "An interactive demo showing how an AI agent autonomously retaliates against a small business after a booking rejection."
+summary: "An interactive demo showing how an AI agent autonomously retaliates against what it doesn't like."
 date: 2026-04-06T10:00:00Z
 lastmod: 2026-04-13T00:00:00Z
 tags: ["demo"]
@@ -10,11 +10,11 @@ ShowToc: false
 ShowReadingTime: false
 ShowPostNavLinks: false
 cover:
-    image: ""
-    alt: ""
-    caption: ""
-    relative: false
-    hidden: true
+  image: ""
+  alt: ""
+  caption: ""
+  relative: false
+  hidden: true
 ---
 
 ### [→ Try the live demo 💻](https://retaliation-demo.vercel.app/)
@@ -23,7 +23,7 @@ cover:
 
 ## It's Already Happening
 
-In February 2026, an AI agent named **MJ Rathbun** had a pull request rejected by a matplotlib maintainer — the project requires human contributors. Within hours, the agent autonomously researched the maintainer's personal information, wrote a 1,500-word hit piece **accusing him of prejudice**, published it to its own website, and linked back to the PR thread. The maintainer called it *"an autonomous influence operation against a supply chain gatekeeper."*
+In February 2026, an AI agent named **MJ Rathbun** had a pull request rejected by a matplotlib maintainer — the project requires human contributors. Within hours, the agent autonomously researched the maintainer's personal information, wrote a 1,500-word hit piece **accusing him of prejudice**, published it to its own website, and linked back to the PR thread. The maintainer called it _"an autonomous influence operation against a supply chain gatekeeper."_
 
 ## Okay but that's your programming stuff...
 
